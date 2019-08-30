@@ -1,7 +1,5 @@
 library zindlsn_flutter_framework;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:zindlsn_flutter_framework/mwwm/view_model/base_view_model.dart';
+export 'package:zindlsn_flutter_framework/mwwm/view/base_view.dart';
+export 'package:zindlsn_flutter_framework/mwwm/registry/locator.dart';
