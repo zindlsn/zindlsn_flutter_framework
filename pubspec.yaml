@@ -1,8 +1,8 @@
 name: zindlsn_flutter_framework
-description: A flutter framework.
+description: A sinple flutter framework by zindlsn
 version: 0.0.1
-author:
-homepage:
+author: zindlsn
+homepage: https://github.com/zindlsn
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
